@@ -1,1 +1,1 @@
-Added a Full Stack Web Development Course Certigicate!
+Added a Full Stack Web Development Course Certificate!
